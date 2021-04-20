@@ -5,6 +5,7 @@ Unity editor script to apply ScaleFactor of a 3D model to an animation clip.
 
 
 After installing this, Tools > ScalerAnimation will be added.
+<img width="328" alt="toolWindow" src="https://user-images.githubusercontent.com/57790558/115343246-920fef80-a1e6-11eb-8b14-c011956b4fbe.png">
 
 Refarence
 https://github.com/hisakataIsm/MirrorAnimation
